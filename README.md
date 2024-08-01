@@ -1,2 +1,2 @@
-# in-context-rl
-Implementation of Algorithm Distillation for in-context RL
+# in-context-ad
+Unofficial Implementation of Algorithm Distillation for in-context RL
